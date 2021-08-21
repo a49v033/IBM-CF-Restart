@@ -12,7 +12,7 @@ wget https://raw.githubusercontent.com/ShadowsocksR-Live/shadowsocksr-native/mas
 bash ibmcloud.sh
 ```
 
-详细教程视频（YouTube）：https://youtu.be/Sz5f4YuWNUc
+详细教程视频（YouTube）
 
    | Secrets变量 | 形式 |
   | --------------------- | ----------- |
